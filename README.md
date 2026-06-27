@@ -19,6 +19,8 @@ FEATURES:
 
 4.Trend comparison between Stack Overflow activity and the growth of LLM usage.
 
+5.Analysis of matplotlib downloads over the last 10 years.
+
 
 RESULTS:
 
@@ -27,10 +29,25 @@ As AI tools became more widely adopted, the number of programming-related questi
 after Dec 2023, when ChatGPT was released.
 
 
+Despite the decline in Stack Overflow activity, Python ecosystem metrics such as Matplotlib downloads show substantial growth during the same period. 
+This suggests that reduced Stack Overflow activity does not imply reduced programming activity.
+Matplotlib user activity results are consistent with the hypothesis that developers are relying more on alternative sources,
+such as AI assistants, to solve coding related doubts.
+
+
+LIMITATIONS:
+
 It is important to note that correlation does not necessarily imply causation.
+
 Other factors may have also contributed to the decline of Stack Overflow site traffic.
+
+Package downloads are only a rough approximation for developer activity since automated systems may also generate downloads.
+
 
 
 <img width="1301" height="696" alt="Screenshot 2026-06-26 173318" src="https://github.com/user-attachments/assets/960d635f-2de1-43cb-adcf-05135c4efef0" />
+
+
+<img width="806" height="483" alt="Screenshot 2026-06-27 124923" src="https://github.com/user-attachments/assets/a21f4897-e7a8-4f07-a639-dc7713c31133" />
 
 
